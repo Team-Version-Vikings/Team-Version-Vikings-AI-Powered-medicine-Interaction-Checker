@@ -1,0 +1,1517 @@
+index,Drug_ID,Drug_Name,Side Effect Name
+0,DB00005,Etanercept,hypermagnesemia
+1,DB00006,Bivalirudin,retinopathy of prematurity
+2,DB00007,Leuprolide,atelectasis
+3,DB00008,Peginterferon alfa-2a,alkalosis
+4,DB00009,Alteplase,Back Ache
+5,DB00012,Darbepoetin alfa,lung edema
+6,DB00013,Urokinase,agitated
+7,DB00014,Goserelin,abnormal movements
+8,DB00015,Reteplase,Acidosis
+9,DB00016,Erythropoietin,peliosis
+10,DB00017,Salmon calcitonin,rupture of spleen
+11,DB00018,Interferon alfa-n3,Apnea
+12,DB00019,Pegfilgrastim,Drug hypersensitivity
+13,DB00020,Sargramostim,flatulence
+14,DB00021,Secretin human,pain in throat
+15,DB00022,Peginterferon alfa-2b,allergies
+16,DB00023,Asparaginase Escherichia coli,thrombocytopenia
+17,DB00026,Anakinra,bradycardia
+18,DB00028,Human immunoglobulin G,lung infiltration
+19,DB00029,Anistreplase,Bleeding
+20,DB00030,Insulin human,hypoglycaemia neonatal
+21,DB00031,Tenecteplase,Gastrointestinal Obstruction
+22,DB00033,Interferon gamma-1b,hyperglycaemia
+23,DB00035,Desmopressin,peritonitis
+24,DB00036,Coagulation factor VIIa Recombinant Human,hypoglycaemia
+25,DB00039,Palifermin,abdominal distension
+26,DB00040,Glucagon,asystole
+27,DB00041,Aldesleukin,cerebral infarct
+28,DB00042,Botulinum toxin type B,hypoxia
+29,DB00043,Omalizumab,Difficulty breathing
+30,DB00046,Insulin lispro,decreased body temperature
+31,DB00047,Insulin glargine,adynamic ileus
+32,DB00048,Collagenase clostridium histolyticum,sepsis
+33,DB00050,Cetrorelix,Hypomagnesaemia
+34,DB00051,Adalimumab,neonatal respiratory distress syndrome
+35,DB00052,Somatotropin,Acute Respiratory Distress Syndrome
+36,DB00054,Abciximab,lipoma
+37,DB00056,Gemtuzumab ozogamicin,pelvic infection
+38,DB00059,Pegaspargase,appendectomy
+39,DB00060,Interferon beta-1a,flank pain
+40,DB00061,Pegademase,pneumothorax
+41,DB00063,Eptifibatide,appendicitis
+42,DB00065,Infliximab,Strabismus
+43,DB00068,Interferon beta-1b,Blood calcium decreased
+44,DB00069,Interferon alfacon-1,respiratory failure
+45,DB00070,Hyaluronidase (ovine),pulmonary hypertension
+46,DB00072,Trastuzumab,Hypercapnia
+47,DB00073,Rituximab,intestinal perforation
+48,DB00074,Basiliximab,leucocytosis
+49,DB00078,Ibritumomab tiuxetan,Disorder Lung
+50,DB00080,Daptomycin,hot flash
+51,DB00081,Tositumomab,arterial pressure NOS decreased
+52,DB00082,Pegvisomant,metabolic acidosis
+53,DB00083,Botulinum toxin type A,Bladder inflammation
+54,DB00085,Pancrelipase,ascites
+55,DB00086,Streptokinase,patent ductus arteriosis
+56,DB00087,Alemtuzumab,thrombocytopenia
+57,DB00089,Capromab pendetide,sinus tachycardia
+58,DB00091,Cyclosporine,stridor
+59,DB00098,Antithymocyte immunoglobulin (rabbit),arterial pressure NOS increased
+60,DB00099,Filgrastim,Hypoventilation
+61,DB00100,Coagulation Factor IX (Recombinant),edema
+62,DB00103,Agalsidase beta,disease of liver
+63,DB00104,Octreotide,Aspartate Aminotransferase Increase
+64,DB00105,Interferon alfa-2b,Cold extremities
+65,DB00107,Oxytocin,Drug hypersensitivity
+66,DB00108,Natalizumab,facial flushing
+67,DB00109,Enfuvirtide,anaphylactic reaction
+68,DB00110,Palivizumab,eruption
+69,DB00112,Bevacizumab,acute pancreatitis
+70,DB00115,Vitamin B12,neumonia
+71,DB00120,Phenylalanine,abnormal movements
+72,DB00121,Biotin,respiratory failure
+73,DB00122,Choline,adenocarcinoma
+74,DB00126,Vitamin C,Bleeding
+75,DB00130,L-Glutamine,thrombocytopenia
+76,DB00136,Calcitriol,confusion
+77,DB00140,Riboflavin,malnourished
+78,DB00146,Calcifediol,haemorrhoids
+79,DB00150,Tryptophan,edema
+80,DB00153,Ergocalciferol,still birth
+81,DB00158,Folic acid,anaemia
+82,DB00159,Icosapent,drug toxicity NOS
+83,DB00162,Vitamin A,increased white blood cell count
+84,DB00163,Vitamin E,sepsis
+85,DB00165,Pyridoxine,encephalopathy
+86,DB00166,Lipoic acid,Anorexia
+87,DB00169,Vitamin D3,tremor
+88,DB00170,Menadione,Hallucination
+89,DB00173,Adenine,chronic obstructive airway disease
+90,DB00175,Pravastatin,drowsiness
+91,DB00176,Fluvoxamine,Head ache
+92,DB00177,Valsartan,back injury
+93,DB00178,Ramipril,erythema
+94,DB00180,Flunisolide,Back Ache
+95,DB00181,Baclofen,Diplopia
+96,DB00182,Amphetamine,enlarged spleen
+97,DB00184,Nicotine,narcolepsy
+98,DB00185,Cevimeline,esophageal spasm
+99,DB00186,Lorazepam,eruption
+100,DB00187,Esmolol,erosive gastritis
+101,DB00188,Bortezomib,gastroenteritis viral
+102,DB00190,Carbidopa,Lymphocytes decreased
+103,DB00191,Phentermine,Breast cancer
+104,DB00193,Tramadol,itch
+105,DB00195,Betaxolol,haemolytic anaemia
+106,DB00196,Fluconazole,upper gastrointestinal bleeding
+107,DB00197,Troglitazone,icterus
+108,DB00198,Oseltamivir,gastroenteritis
+109,DB00199,Erythromycin,optic disc edema
+110,DB00200,Hydroxocobalamin,sleep disorder
+111,DB00201,Caffeine,septic shock
+112,DB00202,Succinylcholine,bladder retention
+113,DB00203,Sildenafil,Aphonia
+114,DB00204,Dofetilide,Pain
+115,DB00205,Pyrimethamine,idiopathic thrombocytopenic purpura
+116,DB00206,Reserpine,pneumonia staphylococcal
+117,DB00207,Azithromycin,alopecia
+118,DB00208,Ticlopidine,conjunctivitis
+119,DB00209,Trospium,lobar pneumonia
+120,DB00210,Adapalene,glomerulonephritis
+121,DB00211,Midodrine,duodenal ulcer
+122,DB00213,Pantoprazole,deep vein thromboses
+123,DB00214,Torasemide,leucopenia
+124,DB00215,Citalopram,rhinorrhea
+125,DB00216,Eletriptan,bursitis
+126,DB00218,Moxifloxacin,atelectasis
+127,DB00220,Nelfinavir,bleeding Vaginal
+128,DB00222,Glimepiride,Excoriation
+129,DB00223,Diflorasone,neumonia
+130,DB00224,Indinavir,Ekbom Syndrome
+131,DB00227,Lovastatin,nephrocalcinosis
+132,DB00229,Cefotiam,blurred vision
+133,DB00230,Pregabalin,peliosis
+134,DB00231,Temazepam,thrombotic microangiopathy
+135,DB00232,Methyclothiazide,hyperglycaemia
+136,DB00233,Aminosalicylic acid,haemorrhoids
+137,DB00234,Reboxetine,hypoglycaemia
+138,DB00235,Milrinone,dizziness
+139,DB00237,Butabarbital,pleurisy
+140,DB00238,Nevirapine,sunburn
+141,DB00240,Alclometasone,Hoarseness
+142,DB00241,Butalbital,Bleeding hemorrhoids
+143,DB00242,Cladribine,Fatigue
+144,DB00243,Ranolazine,drug toxicity NOS
+145,DB00244,Mesalazine,aspiration pneumonia
+146,DB00245,Benzatropine,perirectal abscess
+147,DB00246,Ziprasidone,lipoma
+148,DB00248,Cabergoline,diarrhea
+149,DB00250,Dapsone,asthma
+150,DB00251,Terconazole,skin lesion
+151,DB00252,Phenytoin,tinnitus
+152,DB00254,Doxycycline,flank pain
+153,DB00255,Diethylstilbestrol,encephalopathy
+154,DB00257,Clotrimazole,muscle spasm
+155,DB00258,Calcium acetate,fib
+156,DB00259,Sulfanilamide,Candida Infection
+157,DB00260,Cycloserine,Abnormal Gait
+158,DB00261,Anagrelide,tremor
+159,DB00262,Carmustine,glossodynia
+160,DB00263,Sulfisoxazole,anal fissure
+161,DB00264,Metoprolol,Infection Viral
+162,DB00266,Dicoumarol,hot flash
+163,DB00267,Cefmenoxime,Bladder inflammation
+164,DB00268,Ropinirole,cellulitis
+165,DB00269,Chlorotrianisene,allergic dermatitis
+166,DB00270,Isradipine,constipated
+167,DB00271,Diatrizoate,Clotting
+168,DB00273,Topiramate,muscle paresis
+169,DB00274,Cefmetazole,agitated
+170,DB00275,Olmesartan,abnormal movements
+171,DB00276,Amsacrine,deafness
+172,DB00277,Theophylline,vocal cord paralysis
+173,DB00278,Argatroban,Hypoventilation
+174,DB00279,Liothyronine,dry skin
+175,DB00280,Disopyramide,ear discharge
+176,DB00281,Lidocaine,eye pain
+177,DB00282,Pamidronic acid,Leukaemia
+178,DB00283,Clemastine,myopia
+179,DB00284,Acarbose,Chronic Kidney Disease
+180,DB00285,Venlafaxine,acute kidney failure
+181,DB00287,Travoprost,retrocollis
+182,DB00288,Amcinonide,cognitive disorder
+183,DB00289,Atomoxetine,Cholangitis
+184,DB00290,Bleomycin,hypothyroid
+185,DB00291,Chlorambucil,dermatitides
+186,DB00293,Raltitrexed,Abnormal LFTs
+187,DB00294,Etonogestrel,sinus tachycardia
+188,DB00295,Morphine,dermatitis medicamentosa
+189,DB00296,Ropivacaine,acute brain syndrome
+190,DB00297,Bupivacaine,Deafness neurosensory
+191,DB00300,Tenofovir disoproxil,fungal disease
+192,DB00301,Flucloxacillin,nasal sinus congestion
+193,DB00302,Tranexamic acid,Near Syncope
+194,DB00303,Ertapenem,erythema multiforme
+195,DB00304,Desogestrel,haematoma
+196,DB00305,Mitomycin,bleb
+197,DB00307,Bexarotene,nasal congestion
+198,DB00308,Ibutilide,amenorrhea
+199,DB00309,Vindesine,epistaxis
+200,DB00310,Chlorthalidone,thrombocytopenia
+201,DB00311,Ethoxzolamide,hepatitis
+202,DB00312,Pentobarbital,coated tongue
+203,DB00313,Valproic acid,Neutropenia
+204,DB00314,Capreomycin,wheeze
+205,DB00315,Zolmitriptan,haemorrhage rectum
+206,DB00316,Acetaminophen,abdominal pain
+207,DB00317,Gefitinib,chest pain
+208,DB00318,Codeine,hypoxia
+209,DB00319,Piperacillin,Difficulty breathing
+210,DB00320,Dihydroergotamine,Mycobacterium tuberculosis infection
+211,DB00321,Amitriptyline,cholelithiasis
+212,DB00322,Floxuridine,sepsis
+213,DB00323,Tolcapone,pyoderma
+214,DB00324,Fluorometholone,laryngeal neoplasia
+215,DB00325,Nitroprusside,Blood disorder
+216,DB00327,Hydromorphone,psychoses
+217,DB00328,Indomethacin,aching muscles
+218,DB00330,Ethambutol,abscess
+219,DB00331,Metformin,loss of consciousness
+220,DB00332,Ipratropium,attempted suicide
+221,DB00333,Methadone,bad breath
+222,DB00334,Olanzapine,arterial pressure NOS decreased
+223,DB00335,Atenolol,metabolic acidosis
+224,DB00337,Pimecrolimus,Arthritis infective
+225,DB00338,Omeprazole,Head ache
+226,DB00339,Pyrazinamide,loss of weight
+227,DB00341,Cetirizine,nasopharyngitis
+228,DB00342,Terfenadine,eruption
+229,DB00343,Diltiazem,belching
+230,DB00344,Protriptyline,agitated
+231,DB00345,Aminohippuric acid,constipated
+232,DB00346,Alfuzosin,Rhinitis
+233,DB00347,Trimethadione,Colon Spastic
+234,DB00349,Clobazam,erythema
+235,DB00350,Minoxidil,heart attack
+236,DB00351,Megestrol acetate,hepatic neoplasia
+237,DB00352,Tioguanine,azotaemia
+238,DB00353,Methylergometrine,thrombocytopenia
+239,DB00355,Aztreonam,nervous tension
+240,DB00356,Chlorzoxazone,confusion
+241,DB00357,Aminoglutethimide,malnourished
+242,DB00358,Mefloquine,Near Syncope
+243,DB00359,Sulfadiazine,Neutropenia
+244,DB00360,Sapropterin,muscle weakness
+245,DB00361,Vinorelbine,edema
+246,DB00363,Clozapine,hypoglycaemia
+247,DB00364,Sucralfate,icterus
+248,DB00366,Doxylamine,Blood calcium decreased
+249,DB00367,Levonorgestrel,anaemia
+250,DB00368,Norepinephrine,hypochloraemia
+251,DB00369,Cidofovir,cataract
+252,DB00370,Mirtazapine,abdominal pain upper
+253,DB00371,Meprobamate,insomnia
+254,DB00373,Timolol,dyspepsia
+255,DB00374,Treprostinil,asthenia
+256,DB00375,Colestipol,sepsis
+257,DB00376,Trihexyphenidyl,sinus tachycardia
+258,DB00377,Palonosetron,emesis
+259,DB00378,Dydrogesterone,Embolism pulmonary
+260,DB00379,Mexiletine,Bleeding
+261,DB00380,Dexrazoxane,biliary tract disorder
+262,DB00381,Amlodipine,Pain
+263,DB00382,Tacrine,colitis ischemic
+264,DB00384,Triamterene,Extremity pain
+265,DB00387,Procyclidine,arteriosclerotic heart disease
+266,DB00388,Phenylephrine,Small intestinal obstruction
+267,DB00389,Carbimazole,Paraesthesia
+268,DB00390,Digoxin,Anorexia
+269,DB00391,Sulpiride,neoplasia
+270,DB00392,Profenamine,alopecia
+271,DB00393,Nimodipine,conjunctivitis
+272,DB00394,Beclomethasone dipropionate,Fainting
+273,DB00395,Carisoprodol,blood sodium decreased
+274,DB00396,Progesterone,sneezing
+275,DB00397,Phenylpropanolamine,Feeling unwell
+276,DB00398,Sorafenib,hypokalaemia
+277,DB00399,Zoledronic acid,lower GI bleeding
+278,DB00400,Griseofulvin,facial flushing
+279,DB00401,Nisoldipine,leucopenia
+280,DB00402,Eszopiclone,erythema
+281,DB00404,Alprazolam,Back Ache
+282,DB00405,Dexbrompheniramine,migraine
+283,DB00406,Gentian Violet,attempted suicide
+284,DB00407,Ardeparin,intervertebral disc disorder
+285,DB00408,Loxapine,Hypoventilation
+286,DB00409,Remoxipride,osteoporosis
+287,DB00410,Mupirocin,haemorrhoids
+288,DB00411,Carbachol,High blood pressure
+289,DB00412,Rosiglitazone,Breast cancer
+290,DB00413,Pramipexole,road traffic accident
+291,DB00414,Acetohexamide,dizziness
+292,DB00415,Ampicillin,diverticulosis
+293,DB00417,Phenoxymethylpenicillin,Arthritis rheumatoid
+294,DB00418,Secobarbital,Difficulty breathing
+295,DB00420,Promazine,Abnormal vision
+296,DB00421,Spironolactone,hypothyroid
+297,DB00422,Methylphenidate,arteriosclerosis
+298,DB00423,Methocarbamol,bulging
+299,DB00424,Hyoscyamine,Osteoarthritis
+300,DB00425,Zolpidem,cerebral infarct
+301,DB00427,Triprolidine,insomnia
+302,DB00428,Streptozocin,asthenia
+303,DB00429,Carboprost tromethamine,pleural pain
+304,DB00430,Cefpiramide,acid reflux
+305,DB00433,Prochlorperazine,fibromyalgia
+306,DB00434,Cyproheptadine,breast pain
+307,DB00435,Nitric Oxide,palpitation
+308,DB00436,Bendroflumethiazide,Pain
+309,DB00437,Allopurinol,Extremity pain
+310,DB00438,Ceftazidime,herpes zoster
+311,DB00440,Trimethoprim,Breast cyst
+312,DB00441,Gemcitabine,aching muscles
+313,DB00442,Entecavir,myoglobinuria
+314,DB00443,Betamethasone,loss of consciousness
+315,DB00444,Teniposide,osteomalacia
+316,DB00445,Epirubicin,ischias
+317,DB00446,Chloramphenicol,Aching joints
+318,DB00448,Lansoprazole,muscle spasm
+319,DB00449,Dipivefrin,arthritis
+320,DB00450,Droperidol,hot flash
+321,DB00451,Levothyroxine,arterial pressure NOS decreased
+322,DB00452,Framycetin,abuse
+323,DB00454,Meperidine,colonic polyp
+324,DB00455,Loratadine,Head ache
+325,DB00456,Cefalotin,cholecystitis
+326,DB00457,Prazosin,erythema
+327,DB00458,Imipramine,Dyspnea exertional
+328,DB00459,Acitretin,Extrasystoles Ventricular
+329,DB00460,Verteporfin,adenocarcinoma
+330,DB00461,Nabumetone,Apnea
+331,DB00465,Ketorolac,Drug hypersensitivity
+332,DB00468,Quinine,acne rosacea
+333,DB00470,Dronabinol,confusion
+334,DB00471,Montelukast,Incontinence
+335,DB00472,Fluoxetine,gastroenteritis viral
+336,DB00474,Methohexital,gall bladder
+337,DB00475,Chlordiazepoxide,road traffic accident
+338,DB00476,Duloxetine,haemolytic anaemia
+339,DB00477,Chlorpromazine,diabetic acidosis
+340,DB00478,Rimantadine,Diabetic Retinopathy
+341,DB00479,Amikacin,blepharitis
+342,DB00480,Lenalidomide,pyelonephritis
+343,DB00481,Raloxifene,aptyalism
+344,DB00482,Celecoxib,anaemia
+345,DB00484,Brimonidine,Blepharospasm
+346,DB00485,Dicloxacillin,aneurysm
+347,DB00486,Nabilone,benign prostatic hyperplasia
+348,DB00488,Altretamine,wrist fracture
+349,DB00489,Sotalol,dislocation
+350,DB00490,Buspirone,Superficial thrombophlebitis
+351,DB00491,Miglitol,Aphonia
+352,DB00492,Fosinopril,Pain
+353,DB00493,Cefotaxime,Decreased Libido
+354,DB00494,Entacapone,decubitus ulcer
+355,DB00495,Zidovudine,kidney failure
+356,DB00496,Darifenacin,meningitides
+357,DB00497,Oxycodone,ild
+358,DB00498,Phenindione,blood sodium decreased
+359,DB00499,Flutamide,deep vein thromboses
+360,DB00500,Tolmetin,leucopenia
+361,DB00501,Cimetidine,esophageal spasm
+362,DB00502,Haloperidol,prostatism
+363,DB00503,Ritonavir,neumonia
+364,DB00508,Triflupromazine,Atrioventricular block first degree
+365,DB00512,Vancomycin,blurred vision
+366,DB00513,Aminocaproic acid,Cough
+367,DB00514,Dextromethorphan,lobar pneumonia
+368,DB00515,Cisplatin,Vestibular disorder
+369,DB00518,Albendazole,panic attack
+370,DB00519,Trandolapril,arterial pressure NOS increased
+371,DB00520,Caspofungin,edema
+372,DB00521,Carteolol,nightmare
+373,DB00523,Alitretinoin,dizziness
+374,DB00524,Metolazone,azotaemia
+375,DB00526,Oxaliplatin,wandering atrial pacemaker
+376,DB00528,Lercanidipine,hypochloraemia
+377,DB00529,Foscarnet,Breast Lump
+378,DB00530,Erlotinib,Fatigue
+379,DB00531,Cyclophosphamide,nocturia
+380,DB00532,Mephenytoin,muscle weakness
+381,DB00535,Cefdinir,asthenia
+382,DB00536,Guanidine,spinning sensation
+383,DB00537,Ciprofloxacin,diarrhea
+384,DB00539,Toremifene,tinnitus
+385,DB00540,Nortriptyline,Diabetes
+386,DB00541,Vincristine,bronchitis
+387,DB00542,Benazepril,polyp
+388,DB00543,Amoxapine,osteomalacia
+389,DB00544,Fluorouracil,osteomyelitis
+390,DB00545,Pyridostigmine,muscle spasm
+391,DB00547,Desoximetasone,Candida Infection
+392,DB00549,Zafirlukast,lung fibrosis
+393,DB00550,Propylthiouracil,enlarged liver
+394,DB00551,Acetohydroxamic acid,Abnormal Gait
+395,DB00552,Pentostatin,laceration
+396,DB00553,Methoxsalen,coma
+397,DB00554,Piroxicam,amyotrophy
+398,DB00555,Lamotrigine,cachectic
+399,DB00556,Perflutren,renal cyst
+400,DB00557,Hydroxyzine,neuropathy peripheral
+401,DB00559,Bosentan,collagenvascular disease
+402,DB00560,Tigecycline,Bacterial infection
+403,DB00561,Doxapram,lung infiltration
+404,DB00563,Methotrexate,angiitis
+405,DB00564,Carbamazepine,convulsion
+406,DB00565,Cisatracurium,iron deficiency anaemia
+407,DB00567,Cephalexin,Cardiomyopathy
+408,DB00569,Fondaparinux,Paraesthesia
+409,DB00570,Vinblastine,bronchial spasm
+410,DB00571,Propranolol,deafness
+411,DB00572,Atropine,intervertebral disc disorder
+412,DB00573,Fenoprofen,femur fracture
+413,DB00575,Clonidine,fascitis plantar
+414,DB00577,Valaciclovir,Cardiac decompensation
+415,DB00578,Carbenicillin,mucositis oral
+416,DB00581,Lactulose,nervous tension
+417,DB00582,Voriconazole,joint swelling
+418,DB00583,Levocarnitine,hernia
+419,DB00584,Enalapril,Aspartate Aminotransferase Increase
+420,DB00585,Nizatidine,acute kidney failure
+421,DB00586,Diclofenac,asystole
+422,DB00588,Fluticasone propionate,abdominal pain upper
+423,DB00590,Doxazosin,bulging
+424,DB00591,Fluocinolone acetonide,glaucoma
+425,DB00593,Ethosuximide,mitral valve disease NOS
+426,DB00594,Amiloride,edema extremities
+427,DB00595,Oxytetracycline,pulmonary mass
+428,DB00596,Ulobetasol,breast dysplasia
+429,DB00598,Labetalol,asthma
+430,DB00599,Thiopental,palpitation
+431,DB00601,Linezolid,Phlebitis
+432,DB00602,Ivermectin,lung neoplasms
+433,DB00603,Medroxyprogesterone acetate,balance disorder
+434,DB00604,Cisapride,bone marrow failure
+435,DB00605,Sulindac,deglutition disorder
+436,DB00606,Cyclothiazide,acute brain syndrome
+437,DB00607,Nafcillin,migraine
+438,DB00608,Chloroquine,adrenal insufficiency
+439,DB00609,Ethionamide,ischias
+440,DB00610,Metaraminol,sensory disturbance
+441,DB00611,Butorphanol,polyneuropathy
+442,DB00612,Bisoprolol,Nephrolithiasis
+443,DB00613,Amodiaquine,dysarthria
+444,DB00615,Rifabutin,respiratory failure
+445,DB00618,Demeclocycline,epistaxis
+446,DB00619,Imatinib,Bleeding
+447,DB00620,Triamcinolone,gastroenteritis
+448,DB00621,Oxandrolone,Neutropenia
+449,DB00622,Nicardipine,abdominal pain
+450,DB00623,Fluphenazine,cerebral infarct
+451,DB00624,Testosterone,hypoxia
+452,DB00625,Efavirenz,Difficulty breathing
+453,DB00626,Bacitracin,Hypotension Orthostatic
+454,DB00627,Niacin,cholelithiasis
+455,DB00628,Clorazepic acid,arthritis
+456,DB00630,Alendronic acid,insomnia
+457,DB00631,Clofarabine,Scoliosis
+458,DB00633,Dexmedetomidine,psychoses
+459,DB00634,Sulfacetamide,autonomic instability
+460,DB00635,Prednisone,rhabdomyolysis
+461,DB00637,Astemizole,aching muscles
+462,DB00639,Butoconazole,renal colic
+463,DB00640,Adenosine,septic shock
+464,DB00641,Simvastatin,Aching joints
+465,DB00642,Pemetrexed,bundle branch block left
+466,DB00643,Mebendazole,arterial pressure NOS decreased
+467,DB00648,Mitotane,Arthritis infective
+468,DB00649,Stavudine,Head ache
+469,DB00650,Leucovorin,apoplexy
+470,DB00651,Dyphylline,nasopharyngitis
+471,DB00652,Pentazocine,acute pancreatitis
+472,DB00653,Magnesium sulfate,malabsorption
+473,DB00654,Latanoprost,icterus
+474,DB00656,Trazodone,aphasia
+475,DB00657,Mecamylamine,Paraesthesia
+476,DB00658,Sevelamer,Amnesia
+477,DB00660,Metaxalone,bleb
+478,DB00661,Verapamil,Abnormal Gait
+479,DB00662,Trimethobenzamide,Hypoventilation
+480,DB00665,Nilutamide,body temperature increased
+481,DB00666,Nafarelin,burning sensation
+482,DB00668,Epinephrine,chill
+483,DB00669,Sumatriptan,Drug hypersensitivity
+484,DB00671,Cefixime,phaeochromocytoma
+485,DB00672,Chlorpropamide,Bleeding
+486,DB00673,Aprepitant,Infection Urinary Tract
+487,DB00674,Galantamine,acute kidney failure
+488,DB00675,Tamoxifen,Neutropenia
+489,DB00677,Isoflurophate,night sweat
+490,DB00678,Losartan,keratitis sicca
+491,DB00679,Thioridazine,wheeze
+492,DB00681,Amphotericin B,dehydration
+493,DB00682,Warfarin,Chronic Kidney Disease
+494,DB00683,Midazolam,Ataxia
+495,DB00684,Tobramycin,transient ischaemic attack
+496,DB00686,Pentosan polysulfate,cerebral haemorrhage
+497,DB00687,Fludrocortisone,Difficulty breathing
+498,DB00688,Mycophenolate mofetil,sneezing
+499,DB00689,Cephaloglycin,anaemia
+500,DB00690,Flurazepam,Mod
+501,DB00691,Moexipril,drug toxicity NOS
+502,DB00692,Phentolamine,elevated cholesterol
+503,DB00694,Daunorubicin,heart rate increased
+504,DB00695,Furosemide,Abnormal LFTs
+505,DB00696,Ergotamine,sepsis
+506,DB00697,Tizanidine,pleural pain
+507,DB00698,Nitrofurantoin,eye swelling
+508,DB00700,Eplerenone,psychosexual disorder
+509,DB00703,Methazolamide,Extrasystoles Ventricular
+510,DB00704,Naltrexone,Anxiety
+511,DB00705,Delavirdine,facial palsy
+512,DB00706,Tamsulosin,itch
+513,DB00707,Porfimer sodium,aptyalism
+514,DB00708,Sufentanil,Decreased Libido
+515,DB00709,Lamivudine,kidney failure
+516,DB00710,Ibandronate,anaphylactic reaction
+517,DB00712,Flurbiprofen,fat embolism
+518,DB00713,Oxacillin,acute brain syndrome
+519,DB00714,Apomorphine,ureteral obstruction
+520,DB00715,Paroxetine,alopecia
+521,DB00717,Norethisterone,tremor
+522,DB00718,Adefovir dipivoxil,cataract
+523,DB00720,Clodronic acid,disorder Renal
+524,DB00721,Procaine,arterial pressure NOS increased
+525,DB00722,Lisinopril,blood sodium decreased
+526,DB00723,Methoxamine,nephrosclerosis
+527,DB00724,Imiquimod,chronic obstructive airway disease
+528,DB00726,Trimipramine,delirium tremens
+529,DB00727,Nitroglycerin,drowsiness
+530,DB00728,Rocuronium,psoriatic arthritis
+531,DB00730,Thiabendazole,facial flushing
+532,DB00731,Nateglinide,blurred vision
+533,DB00732,Atracurium besylate,constipated
+534,DB00734,Risperidone,neumonia
+535,DB00736,Esomeprazole,agitated
+536,DB00737,Meclizine,Amnesia
+537,DB00738,Pentamidine,narcolepsy
+538,DB00739,Hetacillin,post traumatic stress disorder
+539,DB00740,Riluzole,laryngitis
+540,DB00741,Hydrocortisone,confusion
+541,DB00742,Mannitol,Incontinence
+542,DB00743,Gadobenic acid,angiopathy
+543,DB00744,Zileuton,nightmare
+544,DB00745,Modafinil,dizziness
+545,DB00746,Deferoxamine,flu
+546,DB00747,Scopolamine,asthenia
+547,DB00748,Carbinoxamine,Difficulty breathing
+548,DB00749,Etodolac,anaemia
+549,DB00750,Prilocaine,coeliac disease
+550,DB00752,Tranylcypromine,adjustment disorder
+551,DB00753,Isoflurane,spinning sensation
+552,DB00754,Ethotoin,sleep disorder
+553,DB00755,Tretinoin,diarrhea
+554,DB00756,Hexachlorophene,emesis
+555,DB00757,Dolasetron,Anxiety
+556,DB00758,Clopidogrel,panic attack
+557,DB00759,Tetracycline,cognitive disorder
+558,DB00760,Meropenem,carcinoid syndrome
+559,DB00761,Potassium chloride,nausea
+560,DB00762,Irinotecan,Anorexia
+561,DB00763,Methimazole,Hypoventilation
+562,DB00764,Mometasone,attempted suicide
+563,DB00765,Metyrosine,blood sodium decreased
+564,DB00766,Clavulanic acid,dysphasia
+565,DB00767,Benzquinamide,chronic obstructive airway disease
+566,DB00768,Olopatadine,arterial pressure NOS decreased
+567,DB00769,Hydrocortamate,facial flushing
+568,DB00770,Alprostadil,drug withdrawal
+569,DB00771,Clidinium,cholecystitis
+570,DB00773,Etoposide,High blood pressure
+571,DB00774,Hydroflumethiazide,panic attack
+572,DB00775,Tirofiban,aspiration pneumonia
+573,DB00776,Oxcarbazepine,Pleural Effusion
+574,DB00779,Nalidixic acid,Sinusitis
+575,DB00780,Phenelzine,respiratory failure
+576,DB00781,Polymyxin B,intervertebral disc disorder
+577,DB00782,Propantheline,Bilirubinaemia
+578,DB00783,Estradiol,Hypoventilation
+579,DB00784,Mefenamic acid,amentia
+580,DB00787,Acyclovir,cerebral atrophy
+581,DB00788,Naproxen,Cardiac decompensation
+582,DB00790,Perindopril,cervicalgia
+583,DB00794,Primidone,hepatitis
+584,DB00795,Sulfasalazine,confusion
+585,DB00796,Candesartan cilexetil,hyperlipaemia
+586,DB00798,Gentamicin,Abnormal Gait
+587,DB00801,Halazepam,Incontinence
+588,DB00802,Alfentanil,angiopathy
+589,DB00803,Colistin,metabolic encephalopathy
+590,DB00804,Dicyclomine,gall bladder
+591,DB00806,Pentoxifylline,hypoglycaemia
+592,DB00808,Indapamide,itch
+593,DB00811,Ribavirin,Diabetic Nephropathy
+594,DB00813,Fentanyl,encephalitis
+595,DB00814,Meloxicam,cerebral infarct
+596,DB00816,Orciprenaline,loss of weight
+597,DB00818,Propofol,Difficulty breathing
+598,DB00819,Acetazolamide,anaemia
+599,DB00820,Tadalafil,sinus tachycardia
+600,DB00821,Carprofen,Intervertebral Disc Herniation
+601,DB00822,Disulfiram,Atherosclerosis
+602,DB00823,Ethynodiol diacetate,aortic regurgitation
+603,DB00828,Fosfomycin,heart rate increased
+604,DB00829,Diazepam,Neuralgia
+605,DB00830,Phenmetrazine,Arthritis rheumatoid
+606,DB00831,Trifluoperazine,hemiplegia
+607,DB00832,Phensuximide,pneumonia Klebsiella
+608,DB00833,Cefaclor,pleural pain
+609,DB00834,Mifepristone,bronchitis
+610,DB00835,Brompheniramine,convulsion
+611,DB00836,Loperamide,emphysema
+612,DB00837,Progabide,lung edema
+613,DB00838,Clocortolone,Candida Infection
+614,DB00839,Tolazamide,deglutition disorder
+615,DB00841,Dobutamine,herpes zoster
+616,DB00842,Oxazepam,Anorexia
+617,DB00843,Donepezil,tremor
+618,DB00844,Nalbuphine,Mycobacterium tuberculosis infection
+619,DB00846,Flurandrenolide,AFIB
+620,DB00847,Cysteamine,Disorder Lung
+621,DB00849,Methylphenobarbital,Postherpetic Neuralgia
+622,DB00850,Perphenazine,hypokalaemia
+623,DB00851,Dacarbazine,renal cyst
+624,DB00852,Pseudoephedrine,Eosinophil Count Increased
+625,DB00853,Temozolomide,enlarged liver
+626,DB00854,Levorphanol,ascites
+627,DB00855,Aminolevulinic acid,Neuritis
+628,DB00857,Terbinafine,abnormal ECG
+629,DB00859,Penicillamine,loss of weight
+630,DB00860,Prednisolone,atelectasis
+631,DB00861,Diflunisal,Bone Fracture Spontaneous
+632,DB00862,Vardenafil,Back Ache
+633,DB00863,Ranitidine,gingivitis
+634,DB00864,Tacrolimus,Cardiomyopathy
+635,DB00865,Benzphetamine,Sinusitis
+636,DB00867,Ritodrine,still birth
+637,DB00869,Dorzolamide,wheeze
+638,DB00871,Terbutaline,intervertebral disc disorder
+639,DB00872,Conivaptan,soft tissue infection
+640,DB00873,Loteprednol,blurred vision
+641,DB00875,Flupentixol,floaters
+642,DB00876,Eprosartan,chill
+643,DB00877,Sirolimus,Cough
+644,DB00879,Emtricitabine,thyroid neoplasia
+645,DB00880,Chlorothiazide,dental abscess
+646,DB00881,Quinapril,dental pain
+647,DB00882,Clomifene,confusion
+648,DB00883,Isosorbide dinitrate,aseptic necrosis bone
+649,DB00884,Risedronic acid,bruxism
+650,DB00887,Bumetanide,angiopathy
+651,DB00888,Mechlorethamine,retinal bleeding
+652,DB00889,Granisetron,Breast cancer
+653,DB00891,Sulfapyridine,abdominal distension
+654,DB00893,Iron Dextran,osteomalacia
+655,DB00895,Benzylpenicilloyl polylysine,Difficulty breathing
+656,DB00896,Rimexolone,anaemia
+657,DB00897,Triazolam,Fatigue
+658,DB00898,Ethanol,bulging
+659,DB00899,Remifentanil,gingival pain
+660,DB00900,Didanosine,pleural pain
+661,DB00903,Etacrynic acid,bone inflammation
+662,DB00904,Ondansetron,pulmonary hypertension
+663,DB00905,Bimatoprost,edema extremities
+664,DB00906,Tiagabine,candidiasis of mouth
+665,DB00907,Cocaine,osteomyelitis
+666,DB00908,Quinidine,Phlebitis
+667,DB00909,Zonisamide,deep vein thromboses
+668,DB00910,Paricalcitol,Pain
+669,DB00911,Tinidazole,tooth disease
+670,DB00912,Repaglinide,mouth pain
+671,DB00915,Amantadine,migraine
+672,DB00916,Metronidazole,arthropathy
+673,DB00917,Dinoprostone,ischias
+674,DB00918,Almotriptan,respiratory failure
+675,DB00919,Spectinomycin,pericardial effusion
+676,DB00921,Buprenorphine,lung neoplasm malignant
+677,DB00923,Ceforanide,Pleural Effusion
+678,DB00924,Cyclobenzaprine,neuropathy peripheral
+679,DB00925,Phenoxybenzamine,infection
+680,DB00927,Famotidine,Bladder inflammation
+681,DB00928,Azacitidine,blindness
+682,DB00929,Misoprostol,Neuritis
+683,DB00930,Colesevelam,Head ache
+684,DB00932,Tipranavir,drug toxicity NOS
+685,DB00933,Mesoridazine,loss of weight
+686,DB00934,Maprotiline,herpes simplex
+687,DB00935,Oxymetazoline,Neutropenia
+688,DB00937,Diethylpropion,Rhinitis
+689,DB00938,Salmeterol,Leukaemia
+690,DB00945,Aspirin,Dyspnea exertional
+691,DB00946,Phenprocoumon,Nephrolithiasis
+692,DB00948,Mezlocillin,blood in urine
+693,DB00949,Felbamate,body temperature increased
+694,DB00950,Fexofenadine,palpitation
+695,DB00951,Isoniazid,Acute myeloblastic leukemia
+696,DB00952,Naratriptan,still birth
+697,DB00953,Rizatriptan,infection
+698,DB00955,Netilmicin,bone marrow failure
+699,DB00956,Hydrocodone,Fatigue
+700,DB00957,Norgestimate,epistaxis
+701,DB00958,Carboplatin,body temperature increased
+702,DB00959,Methylprednisolone,pleural pain
+703,DB00960,Pindolol,dermatitis medicamentosa
+704,DB00961,Mepivacaine,erythema multiforme
+705,DB00962,Zaleplon,abnormal EEG
+706,DB00963,Bromfenac,gastric inflammation
+707,DB00964,Apraclonidine,Transfusion reaction
+708,DB00965,Ethiodized oil,nasopharyngitis
+709,DB00966,Telmisartan,cellulitis
+710,DB00967,Desloratadine,bladder retention
+711,DB00968,Methyldopa,loss of weight
+712,DB00969,Alosetron,abortion spontaneous
+713,DB00970,Dactinomycin,urosepsis
+714,DB00972,Azelastine,eating disorder
+715,DB00973,Ezetimibe,Ekbom Syndrome
+716,DB00974,Edetic acid,schizophrenia
+717,DB00975,Dipyridamole,respiratory failure
+718,DB00976,Telithromycin,cardiac murmur
+719,DB00977,Ethinylestradiol,cardiac enlargement
+720,DB00979,Cyclopentolate,narcolepsy
+721,DB00980,Ramelteon,body temperature increased
+722,DB00981,Physostigmine,proteinuria
+723,DB00982,Isotretinoin,iron deficiency anaemia
+724,DB00983,Formoterol,Apnea
+725,DB00984,Nandrolone phenpropionate,eruption
+726,DB00985,Dimenhydrinate,increased platelet count
+727,DB00986,Glycopyrronium,Rhinitis
+728,DB00987,Cytarabine,thrombotic microangiopathy
+729,DB00988,Dopamine,odynophagia
+730,DB00989,Rivastigmine,dry skin
+731,DB00990,Exemestane,confusion
+732,DB00991,Oxaprozin,Infection Urinary Tract
+733,DB00993,Azathioprine,hyperglycaemia
+734,DB00994,Neomycin,multiple sclerosis
+735,DB00996,Gabapentin,convulsion
+736,DB00997,Doxorubicin,intraocular inflammation
+737,DB00998,Frovatriptan,abdominal pain upper
+738,DB00999,Hydrochlorothiazide,abdominal pain
+739,DB01000,Cyclacillin,weight gain
+740,DB01001,Salbutamol,Convulsions Grand Mal
+741,DB01002,Levobupivacaine,Fatigue
+742,DB01003,Cromoglicic acid,arteriosclerosis
+743,DB01004,Ganciclovir,Enuresis
+744,DB01005,Hydroxyurea,increased white blood cell count
+745,DB01006,Letrozole,bundle branch block right
+746,DB01007,Tioconazole,neumonia
+747,DB01008,Busulfan,Personality disorder
+748,DB01009,Ketoprofen,insomnia
+749,DB01010,Edrophonium,chest pain
+750,DB01011,Metyrapone,salivary gland inflammation
+751,DB01012,Cinacalcet,sinus tachycardia
+752,DB01013,Clobetasol propionate,pregnancy induced hypertension
+753,DB01014,Balsalazide,wrist fracture
+754,DB01015,Sulfamethoxazole,bronchitis
+755,DB01016,Glyburide,candidiasis of mouth
+756,DB01017,Minocycline,breast pain
+757,DB01018,Guanfacine,muscle spasm
+758,DB01019,Bethanechol,cervicitis
+759,DB01020,Isosorbide mononitrate,Hypoventilation
+760,DB01021,Trichlormethiazide,autonomic instability
+761,DB01022,Vitamin K1,hernia hiatal
+762,DB01023,Felodipine,cervical dysplasia
+763,DB01024,Mycophenolic acid,adenitis
+764,DB01026,Ketoconazole,ecchymoses
+765,DB01029,Irbesartan,Bilirubinaemia
+766,DB01030,Topotecan,acute brain syndrome
+767,DB01032,Probenecid,tardive dyskinesia
+768,DB01033,Mercaptopurine,blood pressure abnormal
+769,DB01035,Procainamide,muscle strain
+770,DB01036,Tolterodine,conjunctivitis
+771,DB01037,Selegiline,psychoses
+772,DB01038,Carphenazine,uterine infection
+773,DB01039,Fenofibrate,leucocytosis
+774,DB01041,Thalidomide,Hallucination
+775,DB01042,Melphalan,Eosinophil Count Increased
+776,DB01043,Memantine,Hypotension Orthostatic
+777,DB01045,Rifampicin,Ejaculation Premature
+778,DB01046,Lubiprostone,gastric inflammation
+779,DB01047,Fluocinonide,back injury
+780,DB01048,Abacavir,Dyspnea exertional
+781,DB01049,Ergoloid mesylate,excessive thirst
+782,DB01050,Ibuprofen,Back Ache
+783,DB01053,Benzylpenicillin,ear ache
+784,DB01054,Nitrendipine,elevated erythrocyte sedimentation rate
+785,DB01057,Echothiophate,Diplopia
+786,DB01058,Praziquantel,body temperature increased
+787,DB01059,Norfloxacin,Blood Calcium Increased
+788,DB01060,Amoxicillin,joint stiffness
+789,DB01061,Azlocillin,eruption
+790,DB01062,Oxybutynin,phobia
+791,DB01063,Acetophenazine,esophagitis
+792,DB01064,Isoprenaline,nephrotic syndrome
+793,DB01065,Melatonin,Infection Urinary Tract
+794,DB01066,Cefditoren,Incontinence
+795,DB01067,Glipizide,High blood pressure
+796,DB01068,Clonazepam,still birth
+797,DB01069,Promethazine,road traffic accident
+798,DB01070,Dihydrotachysterol,proctalgia
+799,DB01071,Mequitazine,bone pain
+800,DB01072,Atazanavir,Arthritis rheumatoid
+801,DB01073,Fludarabine,lung neoplasms
+802,DB01074,Perhexiline,Blepharospasm
+803,DB01075,Diphenhydramine,contracture
+804,DB01076,Atorvastatin,gastroenteritis
+805,DB01080,Vigabatrin,proctitis
+806,DB01081,Diphenoxylate,chest pain
+807,DB01082,Streptomycin,pleural pain
+808,DB01083,Orlistat,hernia hiatal
+809,DB01085,Pilocarpine,bladder retention
+810,DB01086,Benzocaine,spondylitis
+811,DB01087,Primaquine,Pain
+812,DB01088,Iloprost,spondylosis
+813,DB01093,Dimethyl sulfoxide,dyspareunia
+814,DB01095,Fluvastatin,Extremity pain
+815,DB01097,Leflunomide,hyperparathyroidism
+816,DB01098,Rosuvastatin,nausea
+817,DB01099,Flucytosine,sleep apnea
+818,DB01100,Pimozide,alopecia
+819,DB01101,Capecitabine,Raynauds phenomenon
+820,DB01103,Quinacrine,bradycardia
+821,DB01104,Sertraline,ild
+822,DB01106,Levocabastine,blood sodium decreased
+823,DB01109,Heparin,hypokalaemia
+824,DB01110,Miconazole,wound dehiscence
+825,DB01111,Colistimethate,arteriosclerosis
+826,DB01112,Cefuroxime,leucopenia
+827,DB01113,Papaverine,osteoporosis
+828,DB01114,Chlorpheniramine,portal vein thrombosis
+829,DB01115,Nifedipine,Excoriation
+830,DB01117,Atovaquone,neumonia
+831,DB01118,Amiodarone,Ekbom Syndrome
+832,DB01119,Diazoxide,nephrocalcinosis
+833,DB01120,Gliclazide,blurred vision
+834,DB01124,Tolbutamide,Cough
+835,DB01126,Dutasteride,head injury
+836,DB01127,Econazole,flatulence
+837,DB01128,Bicalutamide,Arachnoiditis
+838,DB01129,Rabeprazole,panic attack
+839,DB01130,Prednicarbate,hyperglycaemia
+840,DB01131,Proguanil,synovitis
+841,DB01132,Pioglitazone,hyperhidrosis
+842,DB01133,Tiludronic acid,dizziness
+843,DB01136,Carvedilol,Ataxia
+844,DB01137,Levofloxacin,hypochloraemia
+845,DB01138,Sulfinpyrazone,Fatigue
+846,DB01139,Cefapirin,Atherosclerosis
+847,DB01140,Cefadroxil,aspiration pneumonia
+848,DB01142,Doxepin,cerebral atrophy
+849,DB01143,Amifostine,muscle weakness
+850,DB01144,Diclofenamide,lipoma
+851,DB01145,Sulfoxone,asthenia
+852,DB01147,Cloxacillin,spinning sensation
+853,DB01148,Flavoxate,asthma
+854,DB01149,Nefazodone,nystagmus
+855,DB01150,Cefprozil,burning sensation
+856,DB01151,Desipramine,bronchitis
+857,DB01155,Gemifloxacin,osteomyelitis
+858,DB01156,Bupropion,gastrointestinal bleed
+859,DB01158,Bretylium,fib
+860,DB01159,Halothane,Candida Infection
+861,DB01161,Chloroprocaine,apraxia
+862,DB01162,Terazosin,herpes zoster
+863,DB01163,Amdinocillin,muscle strain
+864,DB01164,Calcium chloride,coma
+865,DB01165,Ofloxacin,Disorder Lung
+866,DB01166,Cilostazol,Rectal Tenesmus
+867,DB01167,Itraconazole,chronic obstructive airway disease
+868,DB01168,Procarbazine,hot flash
+869,DB01169,Arsenic trioxide,neuropathy peripheral
+870,DB01171,Moclobemide,Bladder inflammation
+871,DB01172,Kanamycin,drug withdrawal
+872,DB01173,Orphenadrine,muscle spasm
+873,DB01174,Phenobarbital,angiitis
+874,DB01175,Escitalopram,loss of weight
+875,DB01176,Cyclizine,nasopharyngitis
+876,DB01177,Idarubicin,amyloidosis
+877,DB01178,Chlormezanone,pyelonephritis
+878,DB01181,Ifosfamide,constipated
+879,DB01182,Propafenone,Drug addiction
+880,DB01183,Naloxone,prostatitis
+881,DB01184,Domperidone,Paraesthesia
+882,DB01185,Fluoxymesterone,abnormal movements
+883,DB01189,Desflurane,deafness
+884,DB01190,Clindamycin,femoral neck fracture
+885,DB01192,Oxymorphone,sleep walking
+886,DB01193,Acebutolol,femur fracture
+887,DB01194,Brinzolamide,cardiac enlargement
+888,DB01195,Flecainide,Cardiac decompensation
+889,DB01196,Estramustine,monoclonal gammopathy
+890,DB01197,Captopril,dry skin
+891,DB01198,Zopiclone,lung infiltration
+892,DB01200,Bromocriptine,Personality disorder
+893,DB01201,Rifapentine,Chronic Kidney Disease
+894,DB01202,Levetiracetam,joint swelling
+895,DB01203,Nadolol,bruise
+896,DB01204,Mitoxantrone,Scar
+897,DB01205,Flumazenil,cognitive disorder
+898,DB01206,Lomustine,cardiac disease
+899,DB01207,Ridogrel,Intervertebral Disc Herniation
+900,DB01208,Sparfloxacin,amentia
+901,DB01210,Levobunolol,dyspepsia
+902,DB01211,Clarithromycin,Sinusitis
+903,DB01212,Ceftriaxone,pain pelvic
+904,DB01214,Metipranolol,edema extremities
+905,DB01215,Estazolam,hip fracture
+906,DB01217,Anastrozole,difficulty in walking
+907,DB01218,Halofantrine,panic disorder
+908,DB01219,Dantrolene,balance disorder
+909,DB01220,Rifaximin,atrial septal defect
+910,DB01221,Ketamine,diverticulosis
+911,DB01222,Budesonide,deglutition disorder
+912,DB01223,Aminophylline,Tendinitis
+913,DB01224,Quetiapine,tinnitus
+914,DB01225,Enoxaparin,Breast cyst
+915,DB01229,Paclitaxel,Anorexia
+916,DB01232,Saquinavir,aneurysm
+917,DB01233,Metoclopramide,obstructive uropathy
+918,DB01234,Dexamethasone,skin lesion
+919,DB01235,Levodopa,Colpitis
+920,DB01236,Sevoflurane,fungal disease
+921,DB01238,Aripiprazole,drowsiness
+922,DB01239,Chlorprothixene,infection
+923,DB01240,Epoprostenol,nasal sinus congestion
+924,DB01241,Gemfibrozil,Rhagades
+925,DB01242,Clomipramine,dysarthria
+926,DB01244,Bepridil,diarrhea
+927,DB01247,Isocarboxazid,bone spur
+928,DB01248,Docetaxel,Amnesia
+929,DB01249,Iodixanol,tremor
+930,DB01250,Olsalazine,pancreatitis
+931,DB01251,Gliquidone,allergic rhinitis
+932,DB01253,Ergometrine,otitis media
+933,DB01254,Dasatinib,dental abscess
+934,DB01255,Lisdexamfetamine,leucocytosis
+935,DB01256,Retapamulin,intestinal functional disorder
+936,DB01257,Eculizumab,multiple sclerosis
+937,DB01259,Lapatinib,wheeze
+938,DB01260,Desonide,dehydration
+939,DB01261,Sitagliptin,Hypoventilation
+940,DB01262,Decitabine,abdominal pain
+941,DB01263,Posaconazole,cerebral infarct
+942,DB01264,Darunavir,weight gain
+943,DB01265,Telbivudine,faecal incontinence
+944,DB01267,Paliperidone,Hypotension Orthostatic
+945,DB01268,Sunitinib,increased white blood cell count
+946,DB01269,Panitumumab,sleep disorder
+947,DB01270,Ranibizumab,insomnia
+948,DB01273,Varenicline,carpal tunnel
+949,DB01274,Arformoterol,sepsis
+950,DB01275,Hydralazine,Scoliosis
+951,DB01276,Exenatide,emesis
+952,DB01277,Mecasermin,Anxiety
+953,DB01278,Pramlintide,autonomic instability
+954,DB01280,Nelarabine,haematochezia
+955,DB01281,Abatacept,aseptic necrosis bone
+956,DB01282,Carbetocin,ADH inappropriate
+957,DB01284,Tetracosactide,neuropathy
+958,DB01285,Corticotropin,Chest infection
+959,DB01288,Fenoterol,blood pressure abnormal
+960,DB01291,Pirbuterol,abscess
+961,DB01294,Bismuth subsalicylate,loss of consciousness
+962,DB01296,Glucosamine,attempted suicide
+963,DB01298,Sulfacytine,Aching joints
+964,DB01306,Insulin aspart,arterial pressure NOS increased
+965,DB01307,Insulin detemir,radiculopathy
+966,DB01309,Insulin glulisine,dysphonia
+967,DB01319,Fosamprenavir,myelopathy
+968,DB01320,Fosphenytoin,Feeling unwell
+969,DB01323,St. John's Wort,arthritis
+970,DB01326,Cefamandole,arterial pressure NOS decreased
+971,DB01327,Cefazolin,black stools
+972,DB01328,Cefonicid,dysuria
+973,DB01329,Cefoperazone,angiitis
+974,DB01330,Cefotetan,apoplexy
+975,DB01331,Cefoxitin,erythema
+976,DB01332,Ceftizoxime,eruption
+977,DB01333,Cefradine,flashing lights
+978,DB01337,Pancuronium,prostatitis
+979,DB01339,Vecuronium,Paraesthesia
+980,DB01340,Cilazapril,attempted suicide
+981,DB01344,Tolevamer,narcolepsy
+982,DB01351,Amobarbital,body temperature increased
+983,DB01353,Butobarbital,post traumatic stress disorder
+984,DB01354,Heptabarbital,Small intestinal obstruction
+985,DB01355,Hexobarbital,flatulence
+986,DB01356,Lithium cation,esophagitis
+987,DB01357,Mestranol,thrombocytopenia
+988,DB01359,Penbutolol,hepatitis
+989,DB01362,Iohexol,nervous tension
+990,DB01363,Ephedra,Pain
+991,DB01364,Ephedrine,Infection Urinary Tract
+992,DB01365,Mephentermine,gastroenteritis
+993,DB01367,Rasagiline,emesis
+994,DB01369,Quinupristin,haemorrhoids
+995,DB01377,Magnesium oxide,Neutropenia
+996,DB01380,Cortisone acetate,Incontinence
+997,DB01381,Ginkgo biloba,High blood pressure
+998,DB01390,Sodium bicarbonate,retinal bleeding
+999,DB01392,Yohimbine,dehydration
+1000,DB01393,Bezafibrate,nightmare
+1001,DB01394,Colchicine,dizziness
+1002,DB01395,Drospirenone,eye pain
+1003,DB01397,Magnesium salicylate,abdominal distension
+1004,DB01398,Salicylic acid,abdominal pain
+1005,DB01399,Salsalate,Electrolyte disorder
+1006,DB01400,Neostigmine,flu
+1007,DB01403,Methotrimeprazine,aptyalism
+1008,DB01406,Danazol,anaemia
+1009,DB01407,Clenbuterol,adynamic ileus
+1010,DB01408,Bambuterol,Breast Lump
+1011,DB01409,Tiotropium,Fatigue
+1012,DB01410,Ciclesonide,abdominal pain upper
+1013,DB01411,Pranlukast,aortic regurgitation
+1014,DB01413,Cefepime,Decreased hearing
+1015,DB01414,Cefacetrile,aneurysm
+1016,DB01415,Ceftibuten,insomnia
+1017,DB01416,Cefpodoxime,blurred vision
+1018,DB01418,Acenocoumarol,chest pain
+1019,DB01427,Amrinone,sinus tachycardia
+1020,DB01432,Cholestyramine,diarrhea
+1021,DB01435,Antipyrine,pyoderma
+1022,DB01436,Alfacalcidol,mitral valve prolapse
+1023,DB01437,Glutethimide,tinnitus
+1024,DB01438,Phenazopyridine,Anxiety
+1025,DB01440,gamma-Hydroxybutyric acid,fibromyalgia
+1026,DB01463,Fencamfamin,tremor
+1027,DB01489,Camazepam,radiculopathy
+1028,DB01501,Difenoxin,palpitation
+1029,DB01511,Delorazepam,lung neoplasms
+1030,DB01544,Flunitrazepam,Drug addiction
+1031,DB01551,Dihydrocodeine,fatty liver
+1032,DB01553,Cloxazolam,rhabdomyolysis
+1033,DB01556,Chlorphentermine,elevated cholesterol
+1034,DB01558,Bromazepam,adenitis
+1035,DB01559,Clotiazepam,herpes zoster
+1036,DB01560,Cathinone,mouth bleeding
+1037,DB01563,Chloral hydrate,nausea
+1038,DB01567,Fludiazepam,Head ache
+1039,DB01575,Kaolin,bipolar disorder
+1040,DB01576,Dextroamphetamine,Hypoventilation
+1041,DB01577,Metamfetamine,kidney failure
+1042,DB01579,Phendimetrazine,embolism
+1043,DB01581,Sulfamerazine,arthropathy
+1044,DB01582,Sulfamethazine,ischias
+1045,DB01583,Liotrix,Aching joints
+1046,DB01586,Ursodeoxycholic acid,arterial pressure NOS increased
+1047,DB01587,Ketazolam,Ekbom Syndrome
+1048,DB01589,Quazepam,Infection Viral
+1049,DB01590,Everolimus,hypokalaemia
+1050,DB01591,Solifenacin,renal cyst
+1051,DB01592,Iron,duodenitis
+1052,DB01593,Zinc,infection
+1053,DB01594,Cinolazepam,abuse
+1054,DB01595,Nitrazepam,facial flushing
+1055,DB01597,Cilastatin,malignant melanoma
+1056,DB01598,Imipenem,Feeling unwell
+1057,DB01600,Tiaprofenic acid,bruxism
+1058,DB01601,Lopinavir,cellulitis
+1059,DB01602,Bacampicillin,ear infection
+1060,DB01603,Meticillin,haemorrhage rectum
+1061,DB01604,Pivampicillin,cardiac murmur
+1062,DB01605,Pivmecillinam,sinus bradycardia
+1063,DB01606,Tazobactam,eruption
+1064,DB01607,Ticarcillin,Cardiac decompensation
+1065,DB01609,Deferasirox,Cough
+1066,DB01610,Valganciclovir,epistaxis
+1067,DB01611,Hydroxychloroquine,Infection Urinary Tract
+1068,DB01612,Amyl Nitrite,hernia
+1069,DB01613,Erythrityl tetranitrate,dizziness
+1070,DB01614,Acepromazine,chest pain
+1071,DB01618,Molindone,Difficulty breathing
+1072,DB01620,Pheniramine,anaemia
+1073,DB01621,Pipotiazine,cardiac disease
+1074,DB01623,Thiothixene,abdominal pain upper
+1075,DB01624,Zuclopenthixol,asthenia
+1076,DB01627,Lincomycin,palpitation
+1077,DB01656,Roflumilast,deglutition disorder
+1078,DB01708,Prasterone,herpes zoster
+1079,DB01764,Dalfopristin,atrial ectopic beats
+1080,DB01878,Benzophenone,Anorexia
+1081,DB02300,Calcipotriol,external ear infection
+1082,DB02546,Vorinostat,Aching joints
+1083,DB02659,Cholic Acid,Fainting
+1084,DB02701,Nicotinamide,AFIB
+1085,DB02703,Fusidic acid,sensory disturbance
+1086,DB02901,Stanolone,arthritis
+1087,DB03128,Acetylcholine,arterial pressure NOS decreased
+1088,DB03615,Ribostamycin,infection
+1089,DB03619,Deoxycholic acid,Bacterial infection
+1090,DB03754,Tromethamine,muscle spasm
+1091,DB03793,Benzoic acid,Dyspnea exertional
+1092,DB03880,Batimastat,Back Ache
+1093,DB04272,Citric acid,body temperature increased
+1094,DB04339,Carbocisteine,muscle inflammation
+1095,DB04348,Taurocholic acid,confusion
+1096,DB04570,Latamoxef,muscle weakness
+1097,DB04571,Trioxsalen,bone pain
+1098,DB04572,Thiotepa,anaemia
+1099,DB04574,Estrone sulfate,cervical vertebral fracture
+1100,DB04711,Iodipamide,duodenal ulcer
+1101,DB04817,Metamizole,pleural pain
+1102,DB04825,Prenylamine,Extremity pain
+1103,DB04831,Tienilic acid,Decreased Libido
+1104,DB04835,Maraviroc,tooth disease
+1105,DB04837,Clofedanol,lobar pneumonia
+1106,DB04839,Cyproterone acetate,bradycardia
+1107,DB04841,Flunarizine,ild
+1108,DB04842,Fluspirilene,blood sodium decreased
+1109,DB04843,Mepenzolate,Fatigue
+1110,DB04844,Tetrabenazine,hypokalaemia
+1111,DB04845,Ixabepilone,Pleural Effusion
+1112,DB04854,Febuxostat,leucopenia
+1113,DB04855,Dronedarone,gingivitis
+1114,DB04861,Nebivolol,hydronephrosis
+1115,DB04865,Omacetaxine mepesuccinate,chill
+1116,DB04868,Nilotinib,Cough
+1117,DB04871,Lorcaserin,dental caries
+1118,DB04876,Vildagliptin,hyperglycaemia
+1119,DB04884,Dapoxetine,edema
+1120,DB04895,Pegaptanib,dizziness
+1121,DB04896,Milnacipran,hypochloraemia
+1122,DB04897,Lucinactant,Breast Lump
+1123,DB04899,Nesiritide,Hypomagnesaemia
+1124,DB04905,Tesmilifene,elevated prostate specific antigen
+1125,DB04908,Flibanserin,rhinorrhea
+1126,DB04910,Oxibendazole,asthenia
+1127,DB04911,Oritavancin,diarrhea
+1128,DB04918,Ceftobiprole,bronchitis
+1129,DB04920,Clevidipine,Embolism pulmonary
+1130,DB04924,Itopride,muscle spasm
+1131,DB04938,Ospemifene,lung edema
+1132,DB04946,Iloperidone,mouth ulcer
+1133,DB04951,Pirfenidone,lung fibrosis
+1134,DB04953,Ezogabine,enlarged liver
+1135,DB04982,Talampanel,pneumothorax
+1136,DB05015,Belinostat,coma
+1137,DB05039,Indacaterol,gastroduodenal ulcer
+1138,DB05109,Trabectedin,neumonia
+1139,DB05239,Cobimetinib,rhabdomyolysis
+1140,DB05245,Silver sulfadiazine,Bladder inflammation
+1141,DB05246,Methsuximide,fistula
+1142,DB05259,Glatiramer,gastrointestinal bleed
+1143,DB05266,Ibudilast,cellulitis
+1144,DB05271,Rotigotine,icterus
+1145,DB05278,Insulin human,Paraesthesia
+1146,DB05294,Vandetanib,Hypoventilation
+1147,DB05351,Dexlansoprazole,Cardiac decompensation
+1148,DB05521,Telaprevir,acute bronchitis
+1149,DB05528,Mipomersen,Aspartate Aminotransferase Increase
+1150,DB05578,Ramucirumab,acute kidney failure
+1151,DB05676,Apremilast,cognitive disorder
+1152,DB05679,Ustekinumab,decreased body temperature
+1153,DB05773,Trastuzumab emtansine,gynaecomastia
+1154,DB05812,Abiraterone,bulging
+1155,DB05829,Parathyroid hormone,Hypophosphataemia
+1156,DB06144,Sertindole,sinus tachycardia
+1157,DB06145,Spiramycin,edema extremities
+1158,DB06148,Mianserin,palpitation
+1159,DB06153,Pizotifen,Excess potassium
+1160,DB06168,Canakinumab,bone marrow failure
+1161,DB06176,Romidepsin,Anorexia
+1162,DB06186,Ipilimumab,esophageal ulcer
+1163,DB06196,Icatibant,drowsiness
+1164,DB06201,Rufinamide,dysarthria
+1165,DB06203,Alogliptin,renal tubular acidosis
+1166,DB06204,Tapentadol,phlebothrombosis
+1167,DB06206,Sugammadex,thrombocytopenia
+1168,DB06207,Silodosin,hepatitis
+1169,DB06209,Prasugrel,dysaesthesia
+1170,DB06210,Eltrombopag,dehydration
+1171,DB06211,Doripenem,goiter
+1172,DB06212,Tolvaptan,Difficulty breathing
+1173,DB06213,Regadenoson,arteriosclerosis
+1174,DB06216,Asenapine,benign prostatic hyperplasia
+1175,DB06218,Lacosamide,Osteoarthritis
+1176,DB06219,Dalbavancin,emesis
+1177,DB06228,Rivaroxaban,fatty liver
+1178,DB06237,Avanafil,aching muscles
+1179,DB06262,Droxidopa,bone spur
+1180,DB06268,Sitaxentan,arterial pressure NOS decreased
+1181,DB06271,Sulodexide,metabolic acidosis
+1182,DB06273,Tocilizumab,black stools
+1183,DB06274,Alvimopan,metabolic alkalosis
+1184,DB06282,Levocetirizine,Head ache
+1185,DB06283,Ziconotide,Adenopathy
+1186,DB06287,Temsirolimus,Dyspnea exertional
+1187,DB06288,Amisulpride,ear ache
+1188,DB06290,Simeprevir,tympanic membrane perforation
+1189,DB06292,Dapagliflozin,Extrasystoles Ventricular
+1190,DB06335,Saxagliptin,adenocarcinoma
+1191,DB06366,Pertuzumab,Drug addiction
+1192,DB06372,Rilonacept,heart attack
+1193,DB06401,Bazedoxifene,Drug hypersensitivity
+1194,DB06402,Telavancin,nightmare
+1195,DB06403,Ambrisentan,acne rosacea
+1196,DB06404,Human C1-esterase inhibitor,hypoglycaemia neonatal
+1197,DB06410,Doxercalciferol,Incontinence
+1198,DB06412,Oxymetholone,blindness
+1199,DB06413,Armodafinil,High blood pressure
+1200,DB06414,Etravirine,road traffic accident
+1201,DB06415,Calfactant,bone pain
+1202,DB06441,Cangrelor,Diabetic Retinopathy
+1203,DB06480,Prucalopride,blepharitis
+1204,DB06527,Tramiprosate,Blepharospasm
+1205,DB06589,Pazopanib,Arrhythmia
+1206,DB06590,Ceftaroline fosamil,Neuralgia
+1207,DB06594,Agomelatine,haemorrhage rectum
+1208,DB06603,Panobinostat,pleural pain
+1209,DB06605,Apixaban,acid reflux
+1210,DB06616,Bosutinib,Hepatic failure
+1211,DB06626,Axitinib,Pain
+1212,DB06636,Isavuconazonium,Extremity pain
+1213,DB06637,Dalfampridine,Decreased Libido
+1214,DB06643,Denosumab,hyperalimentation
+1215,DB06655,Liraglutide,Spinal fracture
+1216,DB06659,Rostaporfin,nausea
+1217,DB06663,Pasireotide,Fainting
+1218,DB06674,Golimumab,Electrolyte disorder
+1219,DB06681,Belatacept,alopecia
+1220,DB06684,Vilazodone,conjunctivitis
+1221,DB06688,Sipuleucel-T,Hypoventilation
+1222,DB06690,Nitrous oxide,lobar pneumonia
+1223,DB06692,Aprotinin,disorder Renal
+1224,DB06695,Dabigatran etexilate,ild
+1225,DB06696,Arbekacin,Fatigue
+1226,DB06697,Artemether,hypokalaemia
+1227,DB06698,Betahistine,wound dehiscence
+1228,DB06699,Degarelix,Hypotension Orthostatic
+1229,DB06700,Desvenlafaxine,osteoporosis
+1230,DB06701,Dexmethylphenidate,abnormal ECG
+1231,DB06702,Fesoterodine,apoplexy
+1232,DB06704,Iobenguane,bursitis
+1233,DB06706,Isometheptene,gingivitis
+1234,DB06707,Levonordefrin,neumonia
+1235,DB06708,Lumefantrine,Sinusitis
+1236,DB06709,Methacholine,Parkinson
+1237,DB06710,Methyltestosterone,blurred vision
+1238,DB06711,Naphazoline,pain in throat
+1239,DB06714,Propylhexedrine,bradycardia
+1240,DB06715,Potassium Iodide,panic attack
+1241,DB06717,Fosaprepitant,movement disorder
+1242,DB06719,Buserelin,hyperglycaemia
+1243,DB06723,Aluminum hydroxide,haemorrhoids
+1244,DB06724,Calcium carbonate,hyperhidrosis
+1245,DB06729,Sulfaphenazole,hypoglycaemia
+1246,DB06730,Gestodene,dizziness
+1247,DB06754,Danaparoid,macula lutea degeneration
+1248,DB06761,Beractant,musculoskeletal pain
+1249,DB06764,Tetryzoline,rhinorrhea
+1250,DB06767,Ammonium chloride,nocturia
+1251,DB06769,Bendamustine,asthenia
+1252,DB06772,Cabazitaxel,spinning sensation
+1253,DB06777,Chenodeoxycholic acid,diarrhea
+1254,DB06779,Dalteparin,skin lesion
+1255,DB06781,Difluprednate,Diabetes
+1256,DB06782,Dimercaprol,bronchitis
+1257,DB06785,Ganirelix,flank pain
+1258,DB06786,Halcinonide,convulsion
+1259,DB06788,Histrelin,osteomyelitis
+1260,DB06789,Hydroxyprogesterone caproate,psychosomatic disease
+1261,DB06790,Iron sucrose,Cardiac ischemia
+1262,DB06791,Lanreotide,paranoia
+1263,DB06792,Lanthanum carbonate,elevated cholesterol
+1264,DB06795,Mafenide,Embolism pulmonary
+1265,DB06799,Methenamine,Infection Viral
+1266,DB06800,Methylnaltrexone,retinal degeneration
+1267,DB06802,Nepafenac,hot flash
+1268,DB06808,N/A,colitis ischemic
+1269,DB06813,Pralatrexate,drug withdrawal
+1270,DB06817,Raltegravir,weight gain
+1271,DB06819,Phenylbutyric acid,icterus
+1272,DB06820,Sulconazole,iron deficiency anaemia
+1273,DB06822,Tinzaparin,Cardiomyopathy
+1274,DB06824,Triethylenetetramine,Paraesthesia
+1275,DB06825,Triptorelin,deafness
+1276,DB06826,Unoprostone,intervertebral disc disorder
+1277,DB07615,Tranilast,blood in urine
+1278,DB08439,Parecoxib,femur fracture
+1279,DB08794,Ethyl biscoumacetate,fascitis plantar
+1280,DB08795,Azidocillin,chronic sinusitis
+1281,DB08811,Tofisopam,acute bronchitis
+1282,DB08813,Nadroparin,nervous tension
+1283,DB08815,Lurasidone,ulcer
+1284,DB08816,Ticagrelor,hernia
+1285,DB08819,Tafluprost,Chronic Kidney Disease
+1286,DB08820,Ivacaftor,joint swelling
+1287,DB08822,Azilsartan medoxomil,asystole
+1288,DB08824,Ioflupane I-123,flu
+1289,DB08826,Deferiprone,coeliac disease
+1290,DB08827,Lomitapide,Intervertebral Disc Herniation
+1291,DB08860,Pitavastatin,glaucoma
+1292,DB08864,Rilpivirine,amentia
+1293,DB08865,Crizotinib,Abnormal LFTs
+1294,DB08867,Ulipristal,dyspepsia
+1295,DB08868,Fingolimod,sinus tachycardia
+1296,DB08869,Tesamorelin,pain pelvic
+1297,DB08870,Brentuximab vedotin,rib fracture
+1298,DB08871,Eribulin,sneezing
+1299,DB08872,Gabapentin enacarbil,asthma
+1300,DB08873,Boceprevir,palpitation
+1301,DB08874,Fidaxomicin,difficulty in walking
+1302,DB08875,Cabozantinib,balance disorder
+1303,DB08877,Ruxolitinib,Cold extremities
+1304,DB08879,Belimumab,deglutition disorder
+1305,DB08880,Teriflunomide,acute brain syndrome
+1306,DB08881,Vemurafenib,Anorexia
+1307,DB08882,Linagliptin,migraine
+1308,DB08883,Perampanel,rotator cuff syndrome
+1309,DB08886,Asparaginase Erwinia chrysanthemi,fungal disease
+1310,DB08887,Icosapent ethyl,infection
+1311,DB08889,Carfilzomib,haematoma
+1312,DB08893,Mirabegron,Rhinitis
+1313,DB08895,Tofacitinib,phlebothrombosis
+1314,DB08896,Regorafenib,impetigo
+1315,DB08897,Aclidinium,fractured pelvis NOS
+1316,DB08898,Glucarpidase,nasal congestion
+1317,DB08899,Enzalutamide,dental pain
+1318,DB08900,Teduglutide,Aching joints
+1319,DB08901,Ponatinib,aseptic necrosis bone
+1320,DB08902,Raxibacumab,sleep apnea
+1321,DB08903,Bedaquiline,abdominal distension
+1322,DB08904,Certolizumab pegol,kidney failure
+1323,DB08905,Formestane,Mod
+1324,DB08906,Fluticasone furoate,arteriosclerosis
+1325,DB08907,Canagliflozin,prostatism
+1326,DB08909,Glycerol phenylbutyrate,sleep disorder
+1327,DB08910,Pomalidomide,chronic obstructive airway disease
+1328,DB08911,Trametinib,Bleeding hemorrhoids
+1329,DB08912,Dabrafenib,Anxiety
+1330,DB08914,Insulin human,psychoses
+1331,DB08916,Afatinib,ADH inappropriate
+1332,DB08917,Ferric carboxymaltose,neuropathy
+1333,DB08918,Levomilnacipran,edema extremities
+1334,DB08930,Dolutegravir,bipolar disorder
+1335,DB08931,Riociguat,loss of consciousness
+1336,DB08932,Macitentan,leucocytosis
+1337,DB08933,Luliconazole,Infection Upper Respiratory
+1338,DB08934,Sofosbuvir,arterial pressure NOS decreased
+1339,DB08935,Obinutuzumab,bruxism
+1340,DB08941,Isoxsuprine,erythema
+1341,DB08947,Iopamidol,Dyspnea exertional
+1342,DB08976,Floctafenine,palpitation
+1343,DB08992,Eperisone,Cardiomyopathy
+1344,DB09009,Articaine,angioedema
+1345,DB09020,Bisacodyl,muscle paresis
+1346,DB09026,Aliskiren,Rhinitis
+1347,DB09027,Ledipasvir,Sinusitis
+1348,DB09029,Secukinumab,Arrhythmia
+1349,DB09030,Vorapaxar,sick sinus syndrome
+1350,DB09033,Vedolizumab,Aspartate Aminotransferase Increase
+1351,DB09034,Suvorexant,acute kidney failure
+1352,DB09035,Nivolumab,Bilirubinaemia
+1353,DB09036,Siltuximab,heart rate increased
+1354,DB09038,Empagliflozin,hyperthyroidism
+1355,DB09039,Eliglustat,muscle spasm
+1356,DB09042,Tedizolid phosphate,cardiac failure
+1357,DB09043,Albiglutide,allergic rhinitis
+1358,DB09045,Dulaglutide,Cough
+1359,DB09046,Metreleptin,dysphonia
+1360,DB09048,Netupitant,Cardiac decompensation
+1361,DB09049,Naloxegol,atrioventricular block second degree
+1362,DB09050,Ceftolozane,pharyngeal inflammation
+1363,DB09052,Blinatumomab,Cold extremities
+1364,DB09053,Ibrutinib,hypoglycaemia neonatal
+1365,DB09054,Idelalisib,malnourished
+1366,DB09055,Acipimox,Atrioventricular block first degree
+1367,DB09056,Amorolfine,adenoma
+1368,DB09057,Anthrax immune globulin human,hyperhidrosis
+1369,DB09058,Factor IX Complex (Human),bradycardia
+1370,DB09059,Atosiban,night sweat
+1371,DB09060,Avibactam,sinus bradycardia
+1372,DB09061,Cannabidiol,Infection Upper Respiratory
+1373,DB09063,Ceritinib,dizziness
+1374,DB09064,Ciprofibrate,epilepsy
+1375,DB09065,Cobicistat,Infection Viral
+1376,DB09066,Corifollitropin alfa,kidney failure
+1377,DB09067,Corticorelin ovine triflutate,Diabetic Retinopathy
+1378,DB09068,Vortioxetine,Difficulty breathing
+1379,DB09069,Trimetazidine,anaemia
+1380,DB09070,Tibolone,Mod
+1381,DB09071,Tasimelteon,sinus arrest
+1382,DB09072,Sodium oxybate,Atherosclerosis
+1383,DB09073,Palbociclib,increased white blood cell count
+1384,DB09074,Olaparib,angina
+1385,DB09075,Edoxaban,benign prostatic hyperplasia
+1386,DB09076,Umeclidinium,dyspepsia
+1387,DB09077,Dinutuximab,chest pain
+1388,DB09078,Lenvatinib,pleural pain
+1389,DB09079,Nintedanib,Diabetes
+1390,DB09080,Olodaterol,bronchitis
+1391,DB09082,Vilanterol,pulmonary hypertension
+1392,DB09083,Ivabradine,Anxiety
+1393,DB09085,Tetracaine,candidiasis of mouth
+1394,DB09096,Benzoyl peroxide,pain pelvic
+1395,DB09097,Quinagolide,acid reflux
+1396,DB09099,Somatostatin,Blood calcium decreased
+1397,DB09100,"Thyroid, porcine",Excess potassium
+1398,DB09101,Elvitegravir,Candida Infection
+1399,DB09102,Daclatasvir,Intervertebral Disc Herniation
+1400,DB09104,Magnesium hydroxide,Extremity pain
+1401,DB09107,Methoxy polyethylene glycol-epoetin beta,agitated
+1402,DB09112,Nitrous acid,muscle disorder
+1403,DB09113,Poractant alfa,arteriosclerotic heart disease
+1404,DB09117,Paraldehyde,Hepatic failure
+1405,DB09118,Stiripentol,bundle branch block
+1406,DB09119,Eslicarbazepine acetate,tachycardia ventricular
+1407,DB09122,Peginterferon beta-1a,melanocytic naevus
+1408,DB09123,Dienogest,cramp
+1409,DB09125,Potassium citrate,cardiac disease
+1410,DB09128,Brexpiprazole,Cardiac ischemia
+1411,DB09130,Copper,aching muscles
+1412,DB09131,Cupric Chloride,AFIB
+1413,DB09134,Ioversol,atrial flutter
+1414,DB09135,Ioxilan,Feeling unwell
+1415,DB09143,Sonidegib,cardiovascular collapse
+1416,DB09146,Iron sucrose,external ear infection
+1417,DB09147,Ferric pyrophosphate,rhabdomyolysis
+1418,DB09153,Sodium chloride,facial flushing
+1419,DB09156,Iopromide,colonic polyp
+1420,DB09162,This record has been revoked,hypernatraemia
+1421,DB09166,Etizolam,gastric inflammation
+1422,DB09167,Dosulepin,Diplopia
+1423,DB09183,Dasabuvir,Extrasystoles Ventricular
+1424,DB09208,Pegloticase,Bilirubinaemia
+1425,DB09209,Pholcodine,body temperature increased
+1426,DB09210,Piracetam,Blood Calcium Increased
+1427,DB09211,Limaprost,muscle weakness
+1428,DB09214,Dexketoprofen,blindness
+1429,DB09220,Nicorandil,Breast cancer
+1430,DB09221,Polaprezinc,diabetic acidosis
+1431,DB09222,Fibrinogen human,hive
+1432,DB09227,Barnidipine,upper gastrointestinal bleeding
+1433,DB09235,Efonidipine,Blepharospasm
+1434,DB09236,Lacidipine,haemorrhage rectum
+1435,DB09241,Methylene blue,pleural pain
+1436,DB09242,Moxonidine,acid reflux
+1437,DB09255,Dextran,septic shock
+1438,DB09256,Tegafur,Pain
+1439,DB09257,Gimeracil,MPD
+1440,DB09262,Imidafenacin,herpes simplex
+1441,DB09265,Lixisenatide,nausea
+1442,DB09266,Technetium Tc-99m tilmanocept,Fainting
+1443,DB09267,Strontium ranelate,syncope vasovagal
+1444,DB09268,Picosulfuric acid,conjunctivitis
+1445,DB09269,Phenylacetic acid,bradycardia
+1446,DB09270,Ubidecarenone,ild
+1447,DB09271,Cimetropium,Pleural Effusion
+1448,DB09272,Eluxadoline,deep vein thromboses
+1449,DB09273,Doxofylline,streptococcal infection
+1450,DB09274,Artesunate,ascites
+1451,DB09275,Bismuth subcitrate potassium,atelectasis
+1452,DB09276,Sodium aurothiomalate,neumonia
+1453,DB09277,Choline C 11,Sinusitis
+1454,DB09278,Activated charcoal,bundle branch block right
+1455,DB09279,Fimasartan,blurred vision
+1456,DB09280,Lumacaftor,sinus bradycardia
+1457,DB09281,Magnesium trisilicate,Cough
+1458,DB09282,Molsidomine,hyperglycaemia
+1459,DB09285,Morniflumate,aspergillosis
+1460,DB09286,Pipamperone,Fatigue
+1461,DB09287,Polyethylene glycol,lipoma
+1462,DB09288,Propacetamol,spinning sensation
+1463,DB09289,Tianeptine,nystagmus
+1464,DB09290,Ramosetron,bronchitis
+1465,DB09291,Rolapitant,Embolism pulmonary
+1466,DB09292,Sacubitril,candidiasis of mouth
+1467,DB09293,Iodide I-131,gastrointestinal bleed
+1468,DB09294,Lactic acid,Candida Infection
+1469,DB09295,Talniflumate,lung fibrosis
+1470,DB09300,Butylscopolamine,anaphylactic reaction
+1471,DB09301,Chondroitin sulfate,embolism
+1472,DB09302,Alirocumab,arthropathy
+1473,DB09303,Evolocumab,chronic obstructive airway disease
+1474,DB09310,Catridecacog,cardiovascular collapse
+1475,DB09320,Procaine benzylpenicillin,Bladder inflammation
+1476,DB09322,Zinc sulfate,fistula
+1477,DB09323,"Benzylpenicillin benzathine hydrate
+Product ingredient for Benzylpenicillin",angiitis
+1478,DB09330,Osimertinib,nasopharyngitis
+1479,DB09391,Sorbitol,allergic dermatitis
+1480,DB09401,Isosorbide,Light sensitivity
+1481,DB09407,Magnesium chloride,Paraesthesia
+1482,DB09477,Enalaprilat,bronchial spasm
+1483,DB09517,Sodium ferric gluconate complex,cardiac failure
+1484,DB09539,Omega-3-acid ethyl esters,Cardiac decompensation
+1485,DB09545,Fenofibrate,enteritis
+1486,DB09547,Corticotropin,bone marrow transplant
+1487,DB09555,Dexchlorpheniramine maleate,bruise
+1488,DB09560,Filgrastim,SCLC
+1489,DB09564,Insulin degludec,retinal bleeding
+1490,DB09570,Ixazomib,bone pain
+1491,DB10283,"Rabies virus inactivated antigen, A",flu
+1492,DB10532,Garlic,abdominal pain upper
+1493,DB10631,Cranberry,heart rate increased
+1494,DB10675,Licorice,sinus tachycardia
+1495,DB10829,Basil,dermatitis medicamentosa
+1496,DB11057,Mineral oil,pain pelvic
+1497,DB11080,Silver nitrate,tinnitus
+1498,DB11093,Calcium citrate,respiratory failure
+1499,DB11095,Desirudin,bone marrow failure
+1500,DB11110,Magnesium citrate,Cardiac ischemia
+1501,DB11122,"Dextran 40
+Product ingredient for Dextran",colitis
+1502,DB11124,Racepinephrine,ischias
+1503,DB11126,Calcium gluconate,sensory disturbance
+1504,DB11133,Omega-3 fatty acids,Acute myeloblastic leukemia
+1505,DB11135,Selenium,infection
+1506,DB11156,Pyrantel,pancreatitis
+1507,DB11181,Homatropine,dysarthria
+1508,DB11222,Benzoin resin,haematoma
+1509,DB11248,Zinc gluconate,coma
+1510,DB11249,Collagenase clostridium histolyticum,elevated triglycerides
+1511,DB11256,Levomefolic acid,nasal congestion
+1512,DB11315,Methscopolamine,thrombocytopenia
+1513,DB11354,This record has been revoked,Glucose intolerance
